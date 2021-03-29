@@ -22,5 +22,5 @@ Ziao Chen
 Vivian Qiao
 - Model Consolidation: test SVM, plotting model result
 
-Andrew Lok 
--Report: Layout Report
+Andrew Lok
+- Report: Layout Report
